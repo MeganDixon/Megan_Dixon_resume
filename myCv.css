@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	color: #424242;
+	background-image: url('images/background.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+ul p {
+	font-size: 14px;
+}
+
+h3 {
+	color: #424242;
+	text-decoration: overline;
+}
+
+.infodiv {
+	background-color: white;
+	padding: 40px;
+}
+
+
+/* Profile image */
+
+.intro img {
+	height: 200px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.profile h3 {
+	padding-bottom: 25px;
+}
+
+
+/* intro section */
+
+.intro p {
+	text-align: left;
+}
+
+.intro h3 {
+	text-align: left;
+	color: #424242;
+	padding-bottom: 25px;
+}
+
+
+/* Timeline div */
+
+.arrow {
+	margin-left: 50%;
+}
+
+
+/* Profile List */
+
+
+/* fontawesome icons */
+
+.icons {
+	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.timeline {
+	padding-top: 40px;
+}
+
+.timeline h3 {
+	padding-bottom: 25px;
+}
